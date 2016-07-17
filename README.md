@@ -1,2 +1,3 @@
 # l.cfapps.io
-dot files
+- dotfiles shortner (only 301)
+- use in PWS

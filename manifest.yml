@@ -1,0 +1,8 @@
+---
+applications:
+- name: dotfiles
+  instances: 1
+  memory: 16M
+  no-hostname: true
+  domain: l.cfapps.io
+  buildpack: php_buildpack
