@@ -2,7 +2,8 @@
 applications:
 - name: dotfiles
   instances: 1
-  memory: 16M
+  memory: 32M
+  disk_quota: 160M
   no-hostname: true
   domain: l.cfapps.io
   buildpack: php_buildpack
